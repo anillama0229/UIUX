@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ui-UX.iml" filepath="$PROJECT_DIR$/.idea/modules/Ui-UX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ui-UX_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Ui-UX_integrationTest.iml" group="Ui-UX" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ui-UX_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Ui-UX_main.iml" group="Ui-UX" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ui-UX_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Ui-UX_test.iml" group="Ui-UX" />
+    </modules>
+  </component>
+</project>
