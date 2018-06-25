@@ -13,7 +13,7 @@ class IndexController {
         claimsMap.put("difference", (Integer.parseInt(claimsMap.get("payment"))-Integer.parseInt(claimsMap.get("benchmark"))).toString())
         claimsMapArray.add(claimsMap)
 
-        claimsMap = [claimsName: "Dental Claims Paid", payment: "9780", benchmark: "10000", className: "warning"]
+        claimsMap = [claimsName: "Dental Claims Paid", payment: "9780", benchmark: "10000", className: "danger"]
         claimsMap.put("difference", (Integer.parseInt(claimsMap.get("payment"))-Integer.parseInt(claimsMap.get("benchmark"))).toString())
         claimsMapArray.add(claimsMap)
 

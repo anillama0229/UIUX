@@ -78,14 +78,14 @@
         <div class="col-lg-6 fill-complete-height">
             <table class="table table-striped table-bordered table-hover table-condensed">
                 <tbody>
-                <tr class="active">
+                <tr class="warning">
                     <div class="row">
                         <td rowspan="2" class="rowspan2 col-lg-3 text-center"><b>Health Plan Snapshot</b></td>
                         <td colspan="2" class="col-lg-6 text-center"><b>Reporting Period</b><br>(May 2018 through Jun 2018)</td>
                         <td rowspan="2" class="rowspan2 col-lg-3 text-center"><b>Change</b></td>
                     </div>
                 </tr>
-                <tr class="active">
+                <tr class="warning">
                     <td><p class="text-center"><b>Group</b></p></td>
                     <td><p class="text-center"><b>Benchmark</b></p></td>
                 </tr>
