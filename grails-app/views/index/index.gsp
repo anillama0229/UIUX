@@ -5,8 +5,7 @@
 
     <asset:link rel="icon" href="favicon.ico" type="image/x-ico"/>
     <asset:stylesheet src="application.css"/>
-    <asset:stylesheet src="style.css"/>
-    <asset:javascript src="application.js"/>
+    <asset:stylesheet src="less/style.css"/>
     <asset:javascript src="jquery-2.2.0.min.js"/>
     <script src="https://code.highcharts.com/highcharts.js"></script>
     <script src="https://code.highcharts.com/modules/data.js"></script>
